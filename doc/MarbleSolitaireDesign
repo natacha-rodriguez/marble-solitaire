@@ -13,8 +13,8 @@ Individual:
 a c e f e c a
 b d f g f b d
 a c e f e c a
-	c d c
-	a b a
+    c d c
+    a b a
 
 - each weight represents how desirable is a peg on that cell, so cells with less weight will be cleaned up first.
 	
